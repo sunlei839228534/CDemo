@@ -1,0 +1,12 @@
+{
+  "name": "learn-c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "t1": "gcc app.c && a.exe"
+  },
+  "author": "",
+  "license": "ISC"
+}
